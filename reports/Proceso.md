@@ -1,11 +1,11 @@
 # DATOS PROCESADOS
-    Detecto air_quality_data_4 que las coordenadas no definen donde se encuentran los sensores, podemos inferir que todos los sensores son de una misma estacion sin embargo hay diferentes coordenadas en este csv, supondre una sola coordenada " "
+    Detecto air_quality_data_4 que las coordenadas no definen donde se encuentran los sensores, podemos inferir que todos los sensores son de una misma estacion sin embargo hay diferentes coordenadas en este csv, supondre una sola coordenada "19.414782,-99.167183"
 
     IAS IAQ No estan bien definidos.
 
 # ERRORES
     Se detecta el siguiente error en el funcionamiento del sensor, fallo durante un periodo de 2024 **Puede llegar a funcionar este error como una alarma de fallo del sistema y conocer el comportamiento del dispositivo y/o entrenar alertas del fallo del mismo**
-    ![error_datos](figures/error_data.png)
+    ![image](https://github.com/DavOrland/estacion-met/blob/main/reports/figures/error_data.png?raw=true)
 
 # Análisis de los datos
     Observando los valores diarios se pueden ver picos completamente variables entre captura de dato y captura de dato.
@@ -26,4 +26,4 @@
     De forma general
         Correlacion negativa entre Humedad/Temperatura
         Correlacion positiva entre PM2.5/PM10
-    ![heatmap](/figures/heatmap.png)
+    ![heatmap](https://github.com/DavOrland/estacion-met/blob/main/reports/figures/heatmap.png?raw=true)
