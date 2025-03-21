@@ -4,7 +4,7 @@ Detecto air_quality_data_4 que las coordenadas no definen donde se encuentran lo
 
 IAS IAQ No estan bien definidos.
 
-# ERRORES
+## ERRORES
 
 Se detecta el siguiente error en el funcionamiento del sensor, fallo durante un periodo de 2024 **Puede llegar a funcionar este error como una alarma de fallo del sistema y conocer el comportamiento del dispositivo y/o entrenar alertas del fallo del mismo**
 ![image](https://github.com/DavOrland/estacion-met/blob/main/reports/figures/error_data.png?raw=true)
@@ -22,7 +22,7 @@ Me he topado con este tipo de errores y, bueno, dependiendo la aplicacion del di
     
     Si se buscara un dato real sin entrar en temas del calentamiento del sensor, seria necesario entrenar este mismo dispositivo con respecto a un medidor patron que tome lecturas justo al lado de la estación.
 
-# Correlaciones
+## Correlaciones
 
 De forma general
         Correlacion negativa entre Humedad/Temperatura
