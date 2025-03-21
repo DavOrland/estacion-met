@@ -5,7 +5,7 @@
 
 # ERRORES
     Se detecta el siguiente error en el funcionamiento del sensor, fallo durante un periodo de 2024 **Puede llegar a funcionar este error como una alarma de fallo del sistema y conocer el comportamiento del dispositivo y/o entrenar alertas del fallo del mismo**
-    ![error_datos](/reports/figures/error_data.png)
+    ![error_datos](https://github.com/DavOrland/estacion-met/blob/main/reports/figures/error_data.png)
 
 # Análisis de los datos
     Observando los valores diarios se pueden ver picos completamente variables entre captura de dato y captura de dato.
@@ -26,4 +26,4 @@
     De forma general
         Correlacion negativa entre Humedad/Temperatura
         Correlacion positiva entre PM2.5/PM10
-    ![heatmap](/reports/figures/heatmap.png)
+    ![heatmap](/reports/figures/heatmap.png)](https://github.com/DavOrland/estacion-met/blob/main/reports/figures/heatmap.png)
